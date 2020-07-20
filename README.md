@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-I am currently learning, teaching, and researching speech processing. Below are my repositories, most of them are made to accompany my research papers. Feel free to open issues and make pull request. I will be happy if you want to collaborate with me, in all area. Reach by email ot Twitter.
+I am currently learning, teaching, and researching speech processing. Below are my repositories, most of them are made to accompany my research papers. Feel free to open issues and make pull requests. I will be happy if you want to collaborate with me, in all area. Reach by email or Twitter.
