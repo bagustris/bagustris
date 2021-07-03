@@ -1,8 +1,8 @@
 ### Hi there 👋
 <!-- **bagustris/bagustris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-- 🔭 I’m currently working on acoustic, vibration, and signal processing
-- 🌱 I’m currently learning and teaching 🔭
-- 👯 I’m looking to collaborate on 🔭
+- 🔭 I’m currently researching on acoustic, vibration, and signal processing
+- 🌱 I’m currently also learning and teaching on those subjects 🔭
+- 👯 I’m looking to collaborate on those subjects 🔭
 - 📫 How to reach me: [Twitter](https://twitter.com/bagustris) or [email](mailto:bagus@ep.its.ac.id)
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
