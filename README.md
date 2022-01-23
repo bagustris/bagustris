@@ -5,6 +5,10 @@
 - 👯 I’m looking for collaborators on those subjects 🔭
 - 📫 How to reach me: [Twitter](https://twitter.com/btatmaja) or [Email](mailto:bagus@ep.its.ac.id)
 -  ✨ Please mention me @bagustris when creating issues in my repos!
+
+
+[![Bagustris's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagustris&theme=onedark)](https://github.com/bagustris)
+
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
