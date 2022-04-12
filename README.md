@@ -6,6 +6,9 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/btatmaja) or [Email](mailto:bagus@ep.its.ac.id)
 -  ✨ Please mention me @bagustris when creating issues in my repos!
 
+### Recent writings
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [![Bagustris's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagustris&theme=onedark)](https://github.com/bagustris)
 
