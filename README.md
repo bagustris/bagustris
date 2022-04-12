@@ -8,6 +8,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Menuju Masyarakat 5.0 melalui riset dan pengembangan teknologi informasi](https://bagustris.blogspot.com/2022/04/menuju-masyarakat-50-melalui-riset-dan.html)
+- [Terpaksa Berdzikir](https://bagustris.blogspot.com/2022/04/terpaksa-berdzikir.html)
+- [New Paper: Survey on bimodal speech emotion recognition ...](https://bagustris.blogspot.com/2022/04/new-paper-survey-on-bimodal-speech.html)
+- [Mencoba Docker](https://bagustris.blogspot.com/2022/03/mencoba-docker.html)
+- [Permasalahan Ekuitas Jurnal Open Access](https://bagustris.blogspot.com/2022/03/permasalahan-ekuitas-jurnal-open-access.html)
 <!-- BLOG-POST-LIST:END -->
 
 [![Bagustris's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagustris&theme=onedark)](https://github.com/bagustris)
