@@ -4,7 +4,7 @@
 - 💬 This account is mainly intended to host repositories to accompany my research and teaching materials
 - 👯 I’m looking for collaborators on those subjects 🔭
 - 📫 How to reach me: [Twitter](https://twitter.com/btatmaja) or [Email](mailto:bagus@ep.its.ac.id)
--  ✨ Please mention me @bagustris when creating issues in my repos!
+-  ✨ Please mention me with `@bagustris` when creating issues in my repos!
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
