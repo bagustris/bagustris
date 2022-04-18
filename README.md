@@ -15,7 +15,7 @@
 - [Mencoba Docker](https://bagustris.blogspot.com/2022/03/mencoba-docker.html)
 <!-- BLOG-POST-LIST:END -->
 
-[![](https://github-readme-stats.vercel.app/api?username=bagustris&theme=onedark)](https://github.com/bagustris)
+[![](https://github-readme-stats.vercel.app/api?username=bagustris&theme=onedark&hide_title=true&hide_border=true)](https://github.com/bagustris)
 
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
