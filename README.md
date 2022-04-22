@@ -8,11 +8,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Basic Audio Manipulation With Torchaudio](https://bagustris.blogspot.com/2022/04/basic-audio-manipulation-with-torchaudio.html)
 - [Tiga Tipe Ilmuwan..](https://bagustris.blogspot.com/2022/04/tiga-tipe-ilmuwan.html)
 - [Menemukan dan Menghapus file &lpar;ekstensi tertentu, ukuran tertentu&rpar;](https://bagustris.blogspot.com/2022/04/menemukan-dan-menghapus-file-ekstensi.html)
 - [Menuju Masyarakat 5.0 melalui riset dan pengembangan teknologi informasi](https://bagustris.blogspot.com/2022/04/menuju-masyarakat-50-melalui-riset-dan.html)
 - [Terpaksa Berdzikir](https://bagustris.blogspot.com/2022/04/terpaksa-berdzikir.html)
-- [New Paper: Survey on bimodal speech emotion recognition ...](https://bagustris.blogspot.com/2022/04/new-paper-survey-on-bimodal-speech.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
