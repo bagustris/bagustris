@@ -2,7 +2,8 @@
 <!-- **bagustris/bagustris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 🔭 I’m currently researching and teaching acoustic, vibration, and signal processing
 - 💬 This account is mainly intended to host repositories to accompany my research and teaching materials
-- 👯 I’m looking for collaborators on those subjects 🔭
+- 👯 I am looking for collaborators on those subjects 🔭
+- I am also open for paid consultation (time-based fee, payment after completion)
 - 📫 How to reach me: [Twitter](https://twitter.com/btatmaja) or [Email](mailto:bagus@ep.its.ac.id)
 -  ✨ Please mention me with `@bagustris` when creating issues in my repos!
 
