@@ -9,11 +9,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Membuka dan menyimpan file json](https://bagustris.blogspot.com/2022/06/membuka-dan-menyimpan-file-json.html)
 - [Benchmarking SSD: INTEL SSDPEKNW020T8 &lpar;NVMe&rpar;](https://bagustris.blogspot.com/2022/05/benchmarking-ssd-intel-ssdpeknw020t8.html)
 - [Writing for impact, not for impact factor](https://bagustris.blogspot.com/2022/04/writing-for-impact-not-for-impact-factor.html)
 - [Basic Audio Manipulation With Torchaudio](https://bagustris.blogspot.com/2022/04/basic-audio-manipulation-with-torchaudio.html)
 - [Tiga Tipe Ilmuwan..](https://bagustris.blogspot.com/2022/04/tiga-tipe-ilmuwan.html)
-- [Menemukan dan Menghapus file &lpar;ekstensi tertentu, ukuran tertentu&rpar;](https://bagustris.blogspot.com/2022/04/menemukan-dan-menghapus-file-ekstensi.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
