@@ -8,11 +8,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Siapa yang seharusnya membersihkan sampah B?](https://bagustris.blogspot.com/2022/08/siapa-yang-seharusnya-membersihkan.html)
 - [Maksimal jumlah referensi self-citation](https://bagustris.blogspot.com/2022/08/maksimal-jumlah-referensi-self-citation.html)
 - [Teknik Mendaki di Jalan Datar: Flat Foot](https://bagustris.blogspot.com/2022/07/teknik-mendaki-di-jalan-datar-flat-foot.html)
 - [Membuka dan menyimpan file json](https://bagustris.blogspot.com/2022/06/membuka-dan-menyimpan-file-json.html)
 - [Benchmarking SSD: INTEL SSDPEKNW020T8 &lpar;NVMe&rpar;](https://bagustris.blogspot.com/2022/05/benchmarking-ssd-intel-ssdpeknw020t8.html)
-- [Writing for impact, not for impact factor](https://bagustris.blogspot.com/2022/04/writing-for-impact-not-for-impact-factor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
