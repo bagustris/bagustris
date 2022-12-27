@@ -8,11 +8,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Mengikuti Sekolah Mengemudi Di Jepang](https://bagustris.blogspot.com/2022/12/mengikuti-sekolah-mengemudi-di-jepang.html)
 - [Konversi Fail Stereo ke Mono Dari Direktori Berisi Banyak Fail Suara](https://bagustris.blogspot.com/2022/11/konversi-fail-stereo-ke-mono-dari.html)
 - [Installing TexLive 2022 on Ubuntu 22.04 under Multipass](https://bagustris.blogspot.com/2022/09/install-texlive-2022-on-ubuntu-2204.html)
 - [Acoustic Feature Extraction with Transformers](https://bagustris.blogspot.com/2022/08/acoustic-feature-extraction-with.html)
 - [Siapa yang seharusnya membersihkan sampah B?](https://bagustris.blogspot.com/2022/08/siapa-yang-seharusnya-membersihkan.html)
-- [Maksimal jumlah referensi self-citation](https://bagustris.blogspot.com/2022/08/maksimal-jumlah-referensi-self-citation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
