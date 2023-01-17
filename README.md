@@ -16,7 +16,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
-[![](https://github-readme-stats.vercel.app/api?username=bagustris&theme=onedark&hide_title=true&hide_border=true)](https://github.com/bagustris)
+[![](https://github-readme-stats-sigma-five.vercel.app/api?username=bagustris&theme=onedark&hide_title=true&hide_border=true)](https://github.com/bagustris)
 
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
