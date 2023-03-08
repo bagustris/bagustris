@@ -8,11 +8,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Dari Narita, Cikarang, Jakarta, Solo, dan Madiun](https://bagustris.blogspot.com/2023/03/dari-narita-cikarang-jakarta-solo-dan.html)
 - [Multi-device PCs with single keyboard and mouse](https://bagustris.blogspot.com/2023/02/multi-device-pcs-with-single-keyboard.html)
 - [Dual Afiliasi](https://bagustris.blogspot.com/2023/01/dual-afiliasi.html)
 - [Tools for Academic Writing in 2023](https://bagustris.blogspot.com/2023/01/tools-for-academic-writing-in-2023.html)
 - [Mengikuti Sekolah Mengemudi Di Jepang](https://bagustris.blogspot.com/2022/12/mengikuti-sekolah-mengemudi-di-jepang.html)
-- [Konversi Fail Stereo ke Mono Dari Direktori Berisi Banyak Fail Suara](https://bagustris.blogspot.com/2022/11/konversi-fail-stereo-ke-mono-dari.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
