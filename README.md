@@ -8,11 +8,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Kopi dan Produktifitas](https://bagustris.blogspot.com/2023/03/kopi-dan-produktifitas.html)
 - [Antara Tukang Cuci Piring dan Editor Jurnal](https://bagustris.blogspot.com/2023/03/antara-tukang-cuci-piring-dan-editor.html)
 - [Dari Narita, Cikarang, Jakarta, Solo, dan Madiun](https://bagustris.blogspot.com/2023/03/dari-narita-cikarang-jakarta-solo-dan.html)
 - [Multi-device PCs with single keyboard and mouse](https://bagustris.blogspot.com/2023/02/multi-device-pcs-with-single-keyboard.html)
 - [Dual Afiliasi](https://bagustris.blogspot.com/2023/01/dual-afiliasi.html)
-- [Tools for Academic Writing in 2023](https://bagustris.blogspot.com/2023/01/tools-for-academic-writing-in-2023.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
