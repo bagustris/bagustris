@@ -8,11 +8,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Memilih default Kernel Linux di Ubuntu &lpar;22.04&rpar;](https://bagustris.blogspot.com/2023/07/memilih-default-kernel-linux-di-ubuntu.html)
 - [Kenapa tidak ada kursi bernomor I di pesawat?](https://bagustris.blogspot.com/2023/05/kenapa-tidak-ada-kursi-bernomor-i-di.html)
 - [DON&#39;T DO USELESS THINGS!](https://bagustris.blogspot.com/2023/04/dont-do-useless-things.html)
 - [Research Plan 2023](https://bagustris.blogspot.com/2023/03/research-plan-2023.html)
 - [Kopi dan Produktifitas](https://bagustris.blogspot.com/2023/03/kopi-dan-produktifitas.html)
-- [Antara Tukang Cuci Piring dan Editor Jurnal](https://bagustris.blogspot.com/2023/03/antara-tukang-cuci-piring-dan-editor.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
