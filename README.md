@@ -8,11 +8,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Melanggan Medium](https://bagustris.blogspot.com/2023/08/melanggan-medium.html)
 - [Live microphone visualization &lpar;waveform&rpar; with sounddevice](https://bagustris.blogspot.com/2023/07/live-microphone-visualization-waveform.html)
 - [Memilih default Kernel Linux di Ubuntu &lpar;22.04&rpar;](https://bagustris.blogspot.com/2023/07/memilih-default-kernel-linux-di-ubuntu.html)
 - [Kenapa tidak ada kursi bernomor I di pesawat?](https://bagustris.blogspot.com/2023/05/kenapa-tidak-ada-kursi-bernomor-i-di.html)
 - [DON&#39;T DO USELESS THINGS!](https://bagustris.blogspot.com/2023/04/dont-do-useless-things.html)
-- [Research Plan 2023](https://bagustris.blogspot.com/2023/03/research-plan-2023.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
