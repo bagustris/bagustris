@@ -8,11 +8,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Changing Background of MOC Player to Transparent](https://bagustris.blogspot.com/2023/09/changing-background-of-moc-player-to.html)
 - [Mencoba TTS Bahasa Indonesia dengan VITs dan Meta MMS](https://bagustris.blogspot.com/2023/08/mencoba-tts-bahasa-indonesia-dengan.html)
 - [Menginstall ESPNET via Conda](https://bagustris.blogspot.com/2023/08/menginstall-espnet-via-conda.html)
 - [Melanggan Medium](https://bagustris.blogspot.com/2023/08/melanggan-medium.html)
 - [Live microphone visualization &lpar;waveform&rpar; with sounddevice](https://bagustris.blogspot.com/2023/07/live-microphone-visualization-waveform.html)
-- [Memilih default Kernel Linux di Ubuntu &lpar;22.04&rpar;](https://bagustris.blogspot.com/2023/07/memilih-default-kernel-linux-di-ubuntu.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
