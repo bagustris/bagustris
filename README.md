@@ -8,11 +8,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Kapan mendengarkan apa kata orang &lpar;dan kapan tidak&rpar;](https://bagustris.blogspot.com/2023/10/kapan-mendengarkan-apa-kata-orang-dan.html)
 - [Changing Background of MOC Player to Transparent](https://bagustris.blogspot.com/2023/09/changing-background-of-moc-player-to.html)
 - [Mencoba TTS Bahasa Indonesia dengan VITs dan Meta MMS](https://bagustris.blogspot.com/2023/08/mencoba-tts-bahasa-indonesia-dengan.html)
 - [Menginstall ESPNET via Conda](https://bagustris.blogspot.com/2023/08/menginstall-espnet-via-conda.html)
 - [Melanggan Medium](https://bagustris.blogspot.com/2023/08/melanggan-medium.html)
-- [Live microphone visualization &lpar;waveform&rpar; with sounddevice](https://bagustris.blogspot.com/2023/07/live-microphone-visualization-waveform.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
