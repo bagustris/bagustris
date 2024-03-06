@@ -8,11 +8,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Menggunakan &lpar;Mini&rpar; Conda Untuk Komersial &lpar;Institusi Riset, dll&rpar;](https://bagustris.blogspot.com/2024/03/menggunakan-mini-conda-untuk-komersial.html)
 - [Laporan Bulanan Januari 2024](https://bagustris.blogspot.com/2024/01/laporan-bulanan-januari-2024.html)
 - [Mencoba Obsidian: note-taking app yang super powerful](https://bagustris.blogspot.com/2023/12/mencoba-obsidian-note-taking-app-yang.html)
 - [Blog baru di Listed](https://bagustris.blogspot.com/2023/12/blog-baru-di-listed.html)
 - [Tentang Gift dan Ghost Authorship](https://bagustris.blogspot.com/2023/12/tentang-gift-dan-ghost-authorship.html)
-- [Kapan mendengarkan apa kata orang &lpar;dan kapan tidak&rpar;](https://bagustris.blogspot.com/2023/10/kapan-mendengarkan-apa-kata-orang-dan.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
