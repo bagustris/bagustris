@@ -1,3 +1,5 @@
+<!-- insert image -->
+![](./images/yamap_minds.jpeg)
 ### Hi there 👋
 <!-- **bagustris/bagustris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 - 🔭 I’m currently researching and teaching acoustic, vibration, and signal processing
