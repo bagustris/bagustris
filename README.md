@@ -10,11 +10,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Rekomendasi direktori untuk penyimpanan data](https://bagustris.blogspot.com/2024/06/rekomendasi-direktori-untuk-penyimpanan.html)
 - [Siapa Pencipta Tuhan?](https://bagustris.blogspot.com/2024/03/siapa-pencipta-tuhan.html)
 - [Membuat Alias untuk Github Copilot CLI](https://bagustris.blogspot.com/2024/03/membuat-alias-untuk-github-copilot-cli.html)
 - [Menggunakan &lpar;Mini&rpar; Conda Untuk Komersial &lpar;Institusi Riset, dll&rpar;](https://bagustris.blogspot.com/2024/03/menggunakan-mini-conda-untuk-komersial.html)
 - [Laporan Bulanan Januari 2024](https://bagustris.blogspot.com/2024/01/laporan-bulanan-januari-2024.html)
-- [Mencoba Obsidian: note-taking app yang super powerful](https://bagustris.blogspot.com/2023/12/mencoba-obsidian-note-taking-app-yang.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
