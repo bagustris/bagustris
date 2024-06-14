@@ -5,7 +5,7 @@
 - 🔭 I’m currently researching and teaching acoustic, vibration, and signal processing
 - 💬 This account is mainly intended to host repositories to accompany them
 - 👯 I am looking for collaborators on those subjects 
-- 📫 How to reach me: [Twitter](https://twitter.com/btatmaja) or [Email](mailto:bagus@ep.its.ac.id)
+- 📫 How to reach me: [Twitter](https://twitter.com/btatmaja) or [Email](mailto:btatmaja@gmail.com)
 -  ✨ **Please mention me with `@bagustris` when creating issues in my repos!**
 
 ### Recent writings
