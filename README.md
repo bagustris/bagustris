@@ -10,11 +10,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Memahamai Bash Return Value](https://bagustris.blogspot.com/2024/06/memahamai-bash-return-value.html)
 - [Perangkat AI yang saya gunakan untuk riset &lpar;pengodean&rpar;](https://bagustris.blogspot.com/2024/06/perangkat-ai-yang-saya-gunakan-untuk.html)
 - [Rekomendasi direktori untuk penyimpanan data](https://bagustris.blogspot.com/2024/06/rekomendasi-direktori-untuk-penyimpanan.html)
 - [Siapa Pencipta Tuhan?](https://bagustris.blogspot.com/2024/03/siapa-pencipta-tuhan.html)
 - [Membuat Alias untuk Github Copilot CLI](https://bagustris.blogspot.com/2024/03/membuat-alias-untuk-github-copilot-cli.html)
-- [Menggunakan &lpar;Mini&rpar; Conda Untuk Komersial &lpar;Institusi Riset, dll&rpar;](https://bagustris.blogspot.com/2024/03/menggunakan-mini-conda-untuk-komersial.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
