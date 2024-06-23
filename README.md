@@ -10,7 +10,7 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
-- [Memahamai Bash Return Value](https://bagustris.blogspot.com/2024/06/memahamai-bash-return-value.html)
+- [Memahami Bash Return Value](https://bagustris.blogspot.com/2024/06/memahamai-bash-return-value.html)
 - [Perangkat AI yang saya gunakan untuk riset &lpar;pengodean&rpar;](https://bagustris.blogspot.com/2024/06/perangkat-ai-yang-saya-gunakan-untuk.html)
 - [Rekomendasi direktori untuk penyimpanan data](https://bagustris.blogspot.com/2024/06/rekomendasi-direktori-untuk-penyimpanan.html)
 - [Siapa Pencipta Tuhan?](https://bagustris.blogspot.com/2024/03/siapa-pencipta-tuhan.html)
