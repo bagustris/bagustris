@@ -10,11 +10,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Two Papers Accepted in O-COCOSDA 2024](https://bagustris.blogspot.com/2024/09/two-papers-accepted-in-o-cocosda-2024.html)
 - [Two papers got accepted in TENCON 2024](https://bagustris.blogspot.com/2024/09/two-papers-got-accepted-in-tencon-2024.html)
 - [Memahami F1-score dan penggunaannya &lpar;Binary dan Multiclass&rpar;](https://bagustris.blogspot.com/2024/09/memahami-f1-score-dan-penggunaannya.html)
 - [Pathological Voice Detection with Nkululeko](https://bagustris.blogspot.com/2024/08/pathological-voice-detection-with.html)
 - [A paper was accepted at ACM MM 2024 Workshop](https://bagustris.blogspot.com/2024/08/a-paper-was-accepted-at-acm-mm-2024.html)
-- [New pre-print: Uncertainty-Based Ensemble Learning For Speech Classification](https://bagustris.blogspot.com/2024/07/new-pre-print-uncertainty-based.html)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Github Stats
