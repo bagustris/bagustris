@@ -28,16 +28,15 @@
 
 ![Bagus's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagustris&show_icons=true&theme=radical)
 
-## Top Languages
-
+<!--## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagustris&layout=compact&theme=radical)
-
+-->
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 - 🌱 I’m currently also learning and teaching on those subjects 🔭 -->
 
-<!--
-I am currently learning, teaching, and researching ~speech~ sound processing. Below are my repositories; most of them were made to accompany my research papers. Feel free to open issues and make pull requests. I will be happy if you wanna collaborate with me, in all areas. Reach me by email or Twitter.
--->
+
+I am currently learning, teaching, and researching speech/sound processing. Below are my repositories; most of them were made to accompany my research papers. Feel free to open issues and make pull requests. I will be happy if you wanna collaborate with me, in all areas. Reach me by email.
+
