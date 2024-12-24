@@ -1,5 +1,8 @@
 <!-- insert image -->
 ![](./images/yamap_minds.jpeg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=bagustris&style=flat-square)
+
 ### Hi there 👋
 <!-- **bagustris/bagustris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.⚠️ -->
 - 🔭 I’m currently researching and teaching acoustic, vibration, and signal processing
@@ -17,8 +20,17 @@
 - [Pathological Voice Detection with Nkululeko](https://bagustris.blogspot.com/2024/08/pathological-voice-detection-with.html)
 <!-- BLOG-POST-LIST:END -->
 
-### My Github Stats
+<!--### My Github Stats
 [![](https://github-readme-stats-sigma-five.vercel.app/api?username=bagustris&theme=onedark&hide_title=true&hide_border=true)](https://github.com/bagustris)
+-->
+
+## GitHub Stats
+
+![Bagus's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagustris&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagustris&layout=compact&theme=radical)
 
 <!-- - 🤔 I’m looking for help with ... 
 - 💬 Ask me about ...
