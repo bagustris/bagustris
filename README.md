@@ -13,11 +13,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [A paper was accepted at 2025 ICASSP Workshop!](https://bagustris.blogspot.com/2025/01/a-paper-was-accepted-at-2025-icassp.html)
 - [A paper was accepted at ICAIIC 2025!](https://bagustris.blogspot.com/2025/01/a-paper-was-accepted-at-icaiic-2025.html)
 - [Alasan Kenapa Kita Seharusnya Tidak Membeli &lpar;aka boycott&rpar; Barang dari TEMU](https://bagustris.blogspot.com/2024/09/alasan-kenapa-kita-seharusnya-tidak.html)
 - [Two Papers Accepted in O-COCOSDA 2024](https://bagustris.blogspot.com/2024/09/two-papers-accepted-in-o-cocosda-2024.html)
 - [Two papers got accepted in TENCON 2024](https://bagustris.blogspot.com/2024/09/two-papers-got-accepted-in-tencon-2024.html)
-- [Memahami F1-score dan penggunaannya &lpar;Binary dan Multiclass&rpar;](https://bagustris.blogspot.com/2024/09/memahami-f1-score-dan-penggunaannya.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--### My Github Stats
