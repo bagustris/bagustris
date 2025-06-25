@@ -13,11 +13,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Kriteria baru untuk Googling](https://bagustris.blogspot.com/2025/06/kriteria-baru-untuk-googling.html)
 - [BFG yang tertunda](https://bagustris.blogspot.com/2025/06/bfg-yang-tertunda.html)
 - [A proposal for file extension of back up files](https://bagustris.blogspot.com/2025/01/a-proposal-for-file-extension-of-back.html)
 - [A paper was accepted at 2025 ICASSP Workshop!](https://bagustris.blogspot.com/2025/01/a-paper-was-accepted-at-2025-icassp.html)
 - [A paper was accepted at ICAIIC 2025!](https://bagustris.blogspot.com/2025/01/a-paper-was-accepted-at-icaiic-2025.html)
-- [Alasan Kenapa Kita Seharusnya Tidak Membeli &lpar;aka boycott&rpar; Barang dari TEMU](https://bagustris.blogspot.com/2024/09/alasan-kenapa-kita-seharusnya-tidak.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--### My Github Stats
