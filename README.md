@@ -13,11 +13,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Otak kedua: berpindah ke UpNote](https://bagustris.blogspot.com/2025/07/otak-kedua-berpindah-ke-upnote.html)
 - [Deciding Who is the First Author: A Contribution-Based Approach](https://bagustris.blogspot.com/2025/07/deciding-who-is-first-author.html)
 - [Kriteria baru untuk Googling](https://bagustris.blogspot.com/2025/06/kriteria-baru-untuk-googling.html)
 - [BFG yang tertunda](https://bagustris.blogspot.com/2025/06/bfg-yang-tertunda.html)
 - [A proposal for file extension of back up files](https://bagustris.blogspot.com/2025/01/a-proposal-for-file-extension-of-back.html)
-- [A paper was accepted at 2025 ICASSP Workshop!](https://bagustris.blogspot.com/2025/01/a-paper-was-accepted-at-2025-icassp.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--### My Github Stats
