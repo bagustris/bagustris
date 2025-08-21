@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 <!-- **bagustris/bagustris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.⚠️ -->
-- 🔭 I’m currently researching and teaching acoustic, vibration, and signal processing
+- 🔭 I’m currently researching ~~and teaching acoustic, vibration, and signal~~ speech processing
 - 💬 This account is mainly intended to host repositories to accompany them
 - 👯 I am looking for collaborators on those subjects 
 - 📫 How to reach me: [Twitter](https://twitter.com/btatmaja) or [Email](mailto:btatmaja@gmail.com)
