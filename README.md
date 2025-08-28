@@ -13,11 +13,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Two Papers Accepted at APSIPA 2025 in Singapore](https://bagustris.blogspot.com/2025/08/two-papers-accepted-at-apsipa-2025-in.html)
 - [Perbedaan luaran institusi pendidikan dan institusi riset](https://bagustris.blogspot.com/2025/08/perbedaan-luaran-institusi-pendidikan.html)
 - [Otak kedua: berpindah ke UpNote](https://bagustris.blogspot.com/2025/07/otak-kedua-berpindah-ke-upnote.html)
 - [Deciding Who is the First Author: A Contribution-Based Approach](https://bagustris.blogspot.com/2025/07/deciding-who-is-first-author.html)
 - [Kriteria baru untuk Googling](https://bagustris.blogspot.com/2025/06/kriteria-baru-untuk-googling.html)
-- [BFG yang tertunda](https://bagustris.blogspot.com/2025/06/bfg-yang-tertunda.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--### My Github Stats
