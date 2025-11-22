@@ -13,11 +13,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Kriteria memilih pekerjaan](https://bagustris.blogspot.com/2025/11/kriteria-memilih-pekerjaan.html)
 - [Filter emboss &lpar;dari PIL&rpar;: kenapa bagian yang berwarna gelap tidak di-emboss](https://bagustris.blogspot.com/2025/11/filter-emboss-dari-pil-kenapa-bagian.html)
 - [Mengukur kinerja dosen](https://bagustris.blogspot.com/2025/10/mengukur-kinerja-dosen.html)
 - [Two papers accepted at ICSigSys 2025!](https://bagustris.blogspot.com/2025/09/two-papers-accepted-at-icsigsys-2025.html)
 - [Two Papers Accepted at APSIPA 2025 in Singapore](https://bagustris.blogspot.com/2025/08/two-papers-accepted-at-apsipa-2025-in.html)
-- [Perbedaan luaran institusi pendidikan dan institusi riset](https://bagustris.blogspot.com/2025/08/perbedaan-luaran-institusi-pendidikan.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--### My Github Stats
