@@ -1,5 +1,6 @@
 <!-- insert image -->
-![](./images/yamap_minds.jpeg)
+<!--![](./images/yamap_minds.jpeg)-->
+![](./images/3d_masjid.jpeg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bagustris&style=flat-square)
 
