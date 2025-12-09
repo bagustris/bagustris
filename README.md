@@ -24,9 +24,11 @@
 [![](https://github-readme-stats-sigma-five.vercel.app/api?username=bagustris&theme=onedark&hide_title=true&hide_border=true)](https://github.com/bagustris)
 -->
 
-## GitHub Stats
+<!--## GitHub Stats-->
 
-![Bagus's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagustris&show_icons=true&theme=radical)
+
+<!--![Bagus's GitHub stats](https://github-readme-stats.vercel.app/api?username=bagustris&show_icons=true&theme=radical)-->
+
 
 <!--## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bagustris&layout=compact&theme=radical)
