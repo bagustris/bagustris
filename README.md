@@ -14,11 +14,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Khatam dalam 28 hari](https://bagustris.blogspot.com/2025/12/khatam-dalam-28-hari.html)
 - [TODO after installing Ubuntu](https://bagustris.blogspot.com/2025/12/todo-after-intalling-ubuntu.html)
 - [Kriteria memilih pekerjaan](https://bagustris.blogspot.com/2025/11/kriteria-memilih-pekerjaan.html)
 - [Filter emboss &lpar;dari PIL&rpar;: kenapa bagian yang berwarna gelap tidak di-emboss](https://bagustris.blogspot.com/2025/11/filter-emboss-dari-pil-kenapa-bagian.html)
 - [Mengukur kinerja dosen](https://bagustris.blogspot.com/2025/10/mengukur-kinerja-dosen.html)
-- [Two papers accepted at ICSigSys 2025!](https://bagustris.blogspot.com/2025/09/two-papers-accepted-at-icsigsys-2025.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--### My Github Stats
