@@ -14,11 +14,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Interval walking di musim dingin](https://bagustris.blogspot.com/2026/01/interval-walking-di-musim-dingin.html)
 - [Fix Japanese garbled character](https://bagustris.blogspot.com/2026/01/fix-japanese-garbled-character.html)
 - [Permasalahan smartwach &lpar;The problem with smartwatch&rpar;](https://bagustris.blogspot.com/2026/01/permasalahan-smartwach-problem-with.html)
 - [Khatam dalam 28 hari](https://bagustris.blogspot.com/2025/12/khatam-dalam-28-hari.html)
 - [TODO after installing Ubuntu](https://bagustris.blogspot.com/2025/12/todo-after-intalling-ubuntu.html)
-- [Kriteria memilih pekerjaan](https://bagustris.blogspot.com/2025/11/kriteria-memilih-pekerjaan.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--### My Github Stats
