@@ -14,11 +14,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Dua tipe riset: Curiosity-driven vs. Mission oriented](https://bagustris.blogspot.com/2026/03/dua-tipe-riset-curiosity-driven-vs.html)
 - [Numpy Tingkat Lanjut](https://bagustris.blogspot.com/2019/04/numpy-tingkat-lanjut.html)
 - [Interval walking di musim dingin](https://bagustris.blogspot.com/2026/01/interval-walking-di-musim-dingin.html)
 - [Fix Japanese garbled character](https://bagustris.blogspot.com/2026/01/fix-japanese-garbled-character.html)
 - [Permasalahan smartwach &lpar;The problem with smartwatch&rpar;](https://bagustris.blogspot.com/2026/01/permasalahan-smartwach-problem-with.html)
-- [Khatam dalam 28 hari](https://bagustris.blogspot.com/2025/12/khatam-dalam-28-hari.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--### My Github Stats
