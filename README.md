@@ -14,11 +14,11 @@
 
 ### Recent writings
 <!-- BLOG-POST-LIST:START -->
+- [Hidup, Umur dan Pencapaian](https://bagustris.blogspot.com/2026/10/hidup-umur-dan-pencapaian.html)
 - [&lpar;Free&rpar; Tools for learning Japanese](https://bagustris.blogspot.com/2026/08/free-tools-for-learning-japanese.html)
 - [Baju Masuk dan Sholat](https://bagustris.blogspot.com/2026/07/baju-masuk-dan-sholat.html)
 - [Problem-based research](https://bagustris.blogspot.com/2026/05/problem-based-research.html)
 - [Dua tipe riset: Curiosity-driven vs. Mission oriented](https://bagustris.blogspot.com/2026/03/dua-tipe-riset-curiosity-driven-vs.html)
-- [Numpy Tingkat Lanjut](https://bagustris.blogspot.com/2019/04/numpy-tingkat-lanjut.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!--### My Github Stats
